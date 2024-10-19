@@ -1,0 +1,19 @@
+def pow(num1,num2):
+    return num1**num2
+
+def floor(num):
+    num=str(num).split('.')
+    if len(num) == 2:
+        return num[0]
+    else:
+        return None
+
+def ceil(num):
+    num=str(num).split('.')
+    if len(num) == 2:
+        return int(num[0])+1
+    else:
+        return None
+
+
+    

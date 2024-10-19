@@ -1,0 +1,6 @@
+@import coffee.object.Object
+@import coffee.var.booler.bool
+@import coffee.var.float.float
+@import coffee.var.int.int
+@import coffee.var.string.str
+

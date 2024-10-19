@@ -1,0 +1,8 @@
+def sleep(seconds):
+    import time
+    time.sleep(seconds)
+
+
+def time():
+    import time
+    return time.time()
